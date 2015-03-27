@@ -2,6 +2,7 @@
 Curated list about AARRR topics
 
 ## Adquisition
+ - [7 Ways We’ve Harnessed the Power of Multipliers to Accelerate Our Growth](https://www.groovehq.com/blog/business-growth-multipliers)
 
 ## Activation
 
