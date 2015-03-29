@@ -11,6 +11,7 @@ Curated list about AARRR topics
 
 - [10 Customer Retention Strategies to Implement Today](https://www.groovehq.com/support/customer-retention-strategies)
 - [How to Run Email Automation on Less Than $30](http://www.matthewbarby.com/email-automation/)
+- [How to build habit-forming products, part 3: closing the loop](http://blog.invisionapp.com/how-to-build-habit-forming-products-part-3-closing-the-loop/)
 
 ## Referal
 
