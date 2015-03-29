@@ -6,6 +6,7 @@ Curated list about AARRR topics
  - [6 principles for designing trustworthy learning experiences.](https://medium.com/@manicho/6-principles-for-designing-delightful-learning-experiences-d93dc534881d)
 
 ## Activation
+ - [How to Build Highly Engaging Images for Your Facebook Page](http://www.digitalmarketer.com/engaging-images-facebook-page)
 
 ## Retention
 
