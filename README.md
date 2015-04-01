@@ -5,6 +5,7 @@ Curated list about AARRR topics
  - [7 Landing Page Styles That Work With Paid Advertising](http://www.adbeat.com/blog/7-landing-page-styles-that-work-with-paid-advertising)
  - [7 Ways We’ve Harnessed the Power of Multipliers to Accelerate Our Growth](https://www.groovehq.com/blog/business-growth-multipliers)
  - [6 principles for designing trustworthy learning experiences.](https://medium.com/@manicho/6-principles-for-designing-delightful-learning-experiences-d93dc534881d)
+ - [This Is What Happens When Your Startup Is A Hit On Product Hunt](http://www.fastcolabs.com/3039025/this-is-what-happens-when-your-startup-is-a-hit-on-product-hunt)
 
 ## Activation
  - [How to Build Highly Engaging Images for Your Facebook Page](http://www.digitalmarketer.com/engaging-images-facebook-page)
@@ -19,3 +20,7 @@ Curated list about AARRR topics
 ## Referal
 
 ## Revenue
+ - [https://www.groovehq.com/support/startup-shortcomings](https://www.groovehq.com/support/startup-shortcomings)
+
+## Metrics
+ - [Your Startup’s 10 Most Important Metrics](http://tomtunguz.com/your-startups-10-most-important-metrics/)
