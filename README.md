@@ -8,6 +8,7 @@ Curated list about AARRR topics
 
 ## Activation
  - [How to Build Highly Engaging Images for Your Facebook Page](http://www.digitalmarketer.com/engaging-images-facebook-page)
+ - [Mobile Email Conversions Jump 70% YoY In Q4 2014 With Mobile Delivering 20% Of Email Generated Revenue](http://marketingland.com/mobile-email-conversions-jump-70-yoy-in-q4-2014-with-mobile-delivering-20-of-email-generated-revenue-report-123373)
 
 ## Retention
 
