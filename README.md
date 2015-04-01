@@ -20,7 +20,7 @@ Curated list about AARRR topics
 ## Referal
 
 ## Revenue
- - [https://www.groovehq.com/support/startup-shortcomings](https://www.groovehq.com/support/startup-shortcomings)
+ - [Startup Shortcomings](https://www.groovehq.com/support/startup-shortcomings)
 
 ## Metrics
  - [Your Startup’s 10 Most Important Metrics](http://tomtunguz.com/your-startups-10-most-important-metrics/)
