@@ -20,6 +20,7 @@ Curated list about AARRR topics
 ## Referal
 
 ## Revenue
+ - [](http://blog.appannie.com/mobile-app-advertising-and-monetization-trends-2013-2018/?mkt_tok=3RkMMJWWfF9wsRokuq3JZKXonjHpfsX67uotW6Gg38431UFwdcjKPmjr1YEET8d0aPyQAgobGp5I5FEITbHYTaVkt6cFXw%3D%3D)
  - [Startup Shortcomings](https://www.groovehq.com/support/startup-shortcomings)
 
 ## Metrics
