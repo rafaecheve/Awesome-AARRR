@@ -6,6 +6,8 @@ Curated list about AARRR topics
  - [7 Ways We’ve Harnessed the Power of Multipliers to Accelerate Our Growth](https://www.groovehq.com/blog/business-growth-multipliers)
  - [6 principles for designing trustworthy learning experiences.](https://medium.com/@manicho/6-principles-for-designing-delightful-learning-experiences-d93dc534881d)
  - [This Is What Happens When Your Startup Is A Hit On Product Hunt](http://www.fastcolabs.com/3039025/this-is-what-happens-when-your-startup-is-a-hit-on-product-hunt)
+ - [Home
+Newbie Growth Hacker Series: Ads that Convert](http://blog.crazyegg.com/2014/10/31/newbie-growth-hacker-series-ads/)
 
 ## Activation
  - [How to Build Highly Engaging Images for Your Facebook Page](http://www.digitalmarketer.com/engaging-images-facebook-page)
