@@ -25,6 +25,7 @@ Newbie Growth Hacker Series: Ads that Convert](http://blog.crazyegg.com/2014/10/
 ## Revenue
  - [App Annie & IDC Mobile App Advertising and Monetization Trends](http://blog.appannie.com/mobile-app-advertising-and-monetization-trends-2013-2018)
  - [Startup Shortcomings](https://www.groovehq.com/support/startup-shortcomings)
+ - [Ghost April Update: $411k Annual Revenue, Introducing the Public Revenue Dashboard](http://blog.ghost.org/april-2015-update/)
 
 ## Metrics
  - [Your Startup’s 10 Most Important Metrics](http://tomtunguz.com/your-startups-10-most-important-metrics/)
