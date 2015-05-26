@@ -8,6 +8,7 @@ Curated list about AARRR topics
  - [This Is What Happens When Your Startup Is A Hit On Product Hunt](http://www.fastcolabs.com/3039025/this-is-what-happens-when-your-startup-is-a-hit-on-product-hunt)
  - [Home
 Newbie Growth Hacker Series: Ads that Convert](http://blog.crazyegg.com/2014/10/31/newbie-growth-hacker-series-ads/)
+ - [The Essential Landing Page Checklist: 16 Things You Need to Double Check](http://blog.hubspot.com/marketing/landing-page-checklist)
 
 ## Activation
  - [How to Build Highly Engaging Images for Your Facebook Page](http://www.digitalmarketer.com/engaging-images-facebook-page)
