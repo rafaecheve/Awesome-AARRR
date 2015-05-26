@@ -9,6 +9,8 @@ Curated list about AARRR topics
  - [Home
 Newbie Growth Hacker Series: Ads that Convert](http://blog.crazyegg.com/2014/10/31/newbie-growth-hacker-series-ads/)
  - [The Essential Landing Page Checklist: 16 Things You Need to Double Check](http://blog.hubspot.com/marketing/landing-page-checklist)
+ - [How to reach 1 million app downloads – 10 quick hacks
+](http://yourstory.com/2015/05/10-quick-hacks/)
 
 ## Activation
  - [How to Build Highly Engaging Images for Your Facebook Page](http://www.digitalmarketer.com/engaging-images-facebook-page)
