@@ -12,6 +12,7 @@ Newbie Growth Hacker Series: Ads that Convert](http://blog.crazyegg.com/2014/10/
  - [How to reach 1 million app downloads – 10 quick hacks
 ](http://yourstory.com/2015/05/10-quick-hacks/)
  - [10 secrets that will make your life easier as a social media manager](http://thenextweb.com/socialmedia/2015/05/31/10-secrets-that-will-make-your-life-easier-as-a-social-media-manager/)
+ - [What $5 per day will buy you on Facebook ads](http://thenextweb.com/socialmedia/2015/05/31/what-5-per-day-will-buy-you-on-facebook-ads/)
 
 ## Activation
  - [How to Build Highly Engaging Images for Your Facebook Page](http://www.digitalmarketer.com/engaging-images-facebook-page)
