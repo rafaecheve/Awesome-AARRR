@@ -25,6 +25,7 @@ Newbie Growth Hacker Series: Ads that Convert](http://blog.crazyegg.com/2014/10/
 - [How to build habit-forming products, part 3: closing the loop](http://blog.invisionapp.com/how-to-build-habit-forming-products-part-3-closing-the-loop/)
 - [CHURN, RETENTION, AND REENGAGING CUSTOMERS](http://blog.intercom.io/churn-retention-and-reengaging-customers/)
 - [7 Steps to Becoming a Rockstar at Social Media Marketing](http://www.jeffbullas.com/2014/10/30/7-steps-to-becoming-a-rockstar-at-social-media-marketing/)
+- [13 Ways to Show Customers You Love Them](http://www.entrepreneur.com/article/246505)
 
 ## Referal
 
