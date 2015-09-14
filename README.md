@@ -16,6 +16,7 @@ Newbie Growth Hacker Series: Ads that Convert](http://blog.crazyegg.com/2014/10/
  - [Hack PR for Your Startup With These 5 Tools](http://www.entrepreneur.com/article/247241)
  - [Facebook User Acquisition Tips: Getting Your App’s Best Users](http://blog.appannie.com/facebook-ads-tips-getting-your-apps-best-users/)
  - [Demystifying SEO: How to Skyrocket Your Traffic Through Schema Markup](http://www.quicksprout.com/2015/09/11/how-to-skyrocket-your-rankings-overnight-by-implementing-schema-markup/)
+ - [Mega Guía de SEO en WordPress para principiantes](http://diseñocreativo.com/seo-en-wordpress-para-principiantes/)
 
 ## Activation
  - [How to Build Highly Engaging Images for Your Facebook Page](http://www.digitalmarketer.com/engaging-images-facebook-page)
