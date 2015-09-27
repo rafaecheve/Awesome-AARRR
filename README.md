@@ -17,6 +17,7 @@ Newbie Growth Hacker Series: Ads that Convert](http://blog.crazyegg.com/2014/10/
  - [Facebook User Acquisition Tips: Getting Your App’s Best Users](http://blog.appannie.com/facebook-ads-tips-getting-your-apps-best-users/)
  - [Demystifying SEO: How to Skyrocket Your Traffic Through Schema Markup](http://www.quicksprout.com/2015/09/11/how-to-skyrocket-your-rankings-overnight-by-implementing-schema-markup/)
  - [Mega Guía de SEO en WordPress para principiantes](http://diseñocreativo.com/seo-en-wordpress-para-principiantes/)
+ - [Minimum Viable Page Infographic](https://instapage.com/blog/minimum-viable-page-infographic)
 
 ## Activation
  - [How to Build Highly Engaging Images for Your Facebook Page](http://www.digitalmarketer.com/engaging-images-facebook-page)
