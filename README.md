@@ -33,6 +33,7 @@ Newbie Growth Hacker Series: Ads that Convert](http://blog.crazyegg.com/2014/10/
 - [7 Steps to Becoming a Rockstar at Social Media Marketing](http://www.jeffbullas.com/2014/10/30/7-steps-to-becoming-a-rockstar-at-social-media-marketing/)
 - [13 Ways to Show Customers You Love Them](http://www.entrepreneur.com/article/246505)
 - [How To Turn Your Most Unhappy Customers Into Brand Promoters](https://www.groovehq.com/support/dealing-with-unhappy-customers)
+- [How (not) to use push notifications to drive user retention](http://openinput.com/how-not-to-use-push-notifications-to-drive-user-retention/)
 
 ## Referal
 
